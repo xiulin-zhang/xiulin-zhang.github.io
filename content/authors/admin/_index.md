@@ -42,12 +42,13 @@ profiles:
     url: https://orcid.org/0000-0002-5627-6685
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Chinese History of Science
+  - Sound Studies
+  - History and Anthropology of Music
+  - History and Philosophy of Linguistics
 
 education:
-  - area: PhD(ongoing) Science & Technology Studies
+  - area: PhD(-ing) Science & Technology Studies
     institution: Cornell University
     date_start: 2025-09-01
     date_end: 2031-06-01
