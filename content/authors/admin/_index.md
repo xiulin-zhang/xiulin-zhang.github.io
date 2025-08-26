@@ -27,7 +27,7 @@ role: Phd Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Science & Technology Studies,<br/> Cornell University
+  - name: Department of STS, Cornell University
     url: https://sts.cornell.edu/
 
 # Social network links
