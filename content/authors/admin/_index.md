@@ -59,8 +59,6 @@ education:
     date_end: 2025-06-31
   - area: MA Social and Human Sciences
     institution: Institute of Science Tokyo
-    date_start: 2022-09-01
-    date_end: 2024-03-31
   - area: LLB Sociology
     institution: East China University of Science and Technology
     date_start: 2018-09-01
@@ -166,6 +164,4 @@ awards:
 
 ## About Me
 
-Hi! I am Xiulin Zhang (pronounced like “Showleen Djang”), a first-year Ph.D. student at Cornell University’s doctoral program in Science & Technology Studies. Devoted to the history and sociology of science and technology, I am currently working on the entangled history of musical tuning, metrology and state-building in modern China. I am interested in exploring more topics to do with post-colonial science studies and sound studies.
-
-Beyond my academic work, I am a rhythm guitarist passionate about Funk and Post-Punk music.
+Hi! I am Xiulin Zhang (pronounced like “Showleen Djang”), a first-year Ph.D. student at Cornell University’s doctoral program in Science & Technology Studies. Devoted to the history and sociology of science and technology, I am currently working on the entangled history of musical tuning, metrology and state-building in modern China. I am interested in exploring more topics to do with post-colonial science studies and sound studies. Beyond my academic work, I am a rhythm guitarist passionate about Funk and Post-Punk music.
