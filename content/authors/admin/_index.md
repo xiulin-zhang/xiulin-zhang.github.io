@@ -68,17 +68,11 @@ education:
     date_start: 2022-09-01
     date_end: 2024-03-31
     summary:  
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Sociology
+    institution: East China University of Science and Technology
+    date_start: 2018-09-01
+    date_end: 2022-06-31
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
