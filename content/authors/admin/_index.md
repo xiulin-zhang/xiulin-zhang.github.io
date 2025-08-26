@@ -27,9 +27,7 @@ role: Phd Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: |
-      Department of STS
-      Cornell University
+  - name: Department of STS, Cornell University
     url: https://sts.cornell.edu/
 
 # Social network links
@@ -126,12 +124,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: English
+    percent: 80
+  - name: Japanese
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
