@@ -37,9 +37,9 @@ profiles:
     url: 'mailto:xz953@cornell.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/xiulin-zhang
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-5627-6685
 
 interests:
   - Artificial Intelligence
