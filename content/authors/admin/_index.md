@@ -46,6 +46,7 @@ interests:
   - Sound Studies
   - History and Anthropology of Music
   - History and Philosophy of Linguistics
+  - Sociology of Science and Technology
 
 education:
   - area: PhD(-ing) Science & Technology Studies
@@ -179,4 +180,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am Xiulin Zhang (pronounced like “Showleen Djang”), a first-year Ph.D. student at Cornell University’s doctoral program in Science & Technology Studies. Devoted to the history and sociology of science and technology, I am currently working on the entangled history of musical tuning, metrology and state-building in modern China. I am interested in exploring more topics to do with post-colonial science studies and sound studies.
+
+Beyond my academic work, I am a rhythm guitarist passionate about Funk and Post-Punk music.
