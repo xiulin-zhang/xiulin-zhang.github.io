@@ -49,19 +49,19 @@ interests:
   - Sociology of Science and Technology
 
 education:
-  - area: PhD(-ing) Science & Technology Studies
+  - area: Ph.D.(-ing) Science & Technology Studies
     institution: Cornell University
     date_start: 2025-09-01
     date_end: 2031-05-31
-  - area: MSc History of Science and Technology
+  - area: M.Sc. History of Science and Technology
     institution: Tsinghua University
     date_start: 2022-09-01
     date_end: 2025-05-31
-  - area: MA Social and Human Sciences
+  - area: M.A. Social and Human Sciences
     institution: Institute of Science Tokyo
     date_start: 2022-09-01
     date_end: 2024-03-31
-  - area: LLB Sociology
+  - area: LL.B. Sociology
     institution: East China University of Science and Technology
     date_start: 2018-09-01
     date_end: 2022-05-31
