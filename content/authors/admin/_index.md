@@ -10,7 +10,7 @@ first_name: Xiulin
 last_name: Zhang
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: 
 
 # Status emoji
 status:
