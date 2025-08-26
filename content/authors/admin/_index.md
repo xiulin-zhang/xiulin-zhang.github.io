@@ -57,10 +57,6 @@ education:
     institution: Tsinghua University
     date_start: 2022-09-01
     date_end: 2025-06-31
-  - area: MA Social and Human Sciences
-    institution: Institute of Science Tokyo
-    date_start: 2022-09-01
-    date_end: 2020-03-31
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
