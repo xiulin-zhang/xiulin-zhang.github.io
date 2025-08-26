@@ -47,7 +47,7 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Science & Technology Studies
+  - area: PhD(ongoing) Science & Technology Studies
     institution: Cornell University
     date_start: 2025-09-01
     date_end: 2031-06-01
