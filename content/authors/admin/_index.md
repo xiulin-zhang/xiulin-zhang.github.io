@@ -52,7 +52,7 @@ education:
   - area: PhD(-ing) Science & Technology Studies
     institution: Cornell University
     date_start: 2025-09-01
-    date_end: 2031-06-01
+    date_end: 2031-05-31
   - area: MSc History of Science and Technology
     institution: Tsinghua University
     date_start: 2022-09-01
@@ -61,10 +61,10 @@ education:
     institution: Institute of Science Tokyo
     date_start: 2022-09-01
     date_end: 2024-03-31
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: LLB Sociology
+    institution: East China University of Science and Technology
+    date_start: 2018-09-01
+    date_end: 2022-05-31
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
