@@ -52,11 +52,11 @@ education:
   - area: PhD(-ing) Science & Technology Studies
     institution: Cornell University
     date_start: 2025-09-01
-    date_end: 2031-06-01
+    date_end: 2031-05-31
   - area: MSc History of Science and Technology
     institution: Tsinghua University
-    date_start: 2022-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-01
+    date_end: 2025-06-31
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
