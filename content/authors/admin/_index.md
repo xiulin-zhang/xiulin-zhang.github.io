@@ -3,7 +3,7 @@
 title: Xiulin Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Xiūlín Zhāng
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Xiulin
@@ -87,6 +87,6 @@ languages:
 
 ## About Me
 
-Hi! I am Xiulin Zhang (pronounced like “Showleen Djang”), a first-year Ph.D. student at Cornell University’s doctoral program in Science & Technology Studies. Devoted to the history and sociology of science and technology, I am currently working on the entangled history of musical tuning, metrology and state-building in modern China. I am interested in exploring more topics to do with post-colonial science studies and sound studies.
+Hi! I am Xiūlín Zhāng (pronounced like “Showleen Djang”), a first-year Ph.D. student at Cornell University’s doctoral program in Science & Technology Studies. Devoted to the history and sociology of science and technology, I am currently working on the entangled history of musical tuning, metrology and state-building in modern China. I am interested in exploring more topics to do with post-colonial science studies and sound studies.
 
 Beyond my academic work, I am a rhythm guitarist passionate about Funk and Post-Punk music.
